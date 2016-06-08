@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:00.996143
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:52
 #+TITLE: 律雜抄
 #+PROPERTY: CBETA_ID T85n2790
 #+PROPERTY: ID KR6k0136
@@ -12,9 +12,8 @@
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2790¶
-
- 律雜抄¶
+No. 2790¶
+律雜抄¶
 ¶
 
 律一卷雜抄　律一卷雜抄　律策一卷¶
