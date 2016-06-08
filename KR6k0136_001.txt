@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:00.996143
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 律雜抄
 #+PROPERTY: CBETA_ID T85n2790
 #+PROPERTY: ID KR6k0136
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2790
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0136_T_000-0653a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0136_T_001-0653a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2790¶
-
- 律雜抄¶
+No. 2790¶
+律雜抄¶
 ¶
 
 律一卷雜抄　律一卷雜抄　律策一卷¶
